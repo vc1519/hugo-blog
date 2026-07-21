@@ -1,2 +1,1 @@
-# hugo-blog
-Hugo Blog
+https://zhaohuabing.com
